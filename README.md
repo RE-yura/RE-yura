@@ -1,4 +1,2 @@
-![RE-yura's github stats](https://github-readme-stats.vercel.app/api?username=RE-yura&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RE-yura&theme=radical)
-
-These cards are powered by https://github.com/anuraghazra/github-readme-stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RE-yura&count_private=true&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RE-yura&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=react)
