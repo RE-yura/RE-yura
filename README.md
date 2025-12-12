@@ -13,3 +13,5 @@
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RE-yura&theme=flat)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![GitHub Streak](https://github-readme-streak-stats-95tuanle.vercel.app?user=RE-yura&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
