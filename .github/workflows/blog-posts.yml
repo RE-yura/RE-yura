@@ -1,0 +1,29 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "30 15 * * *" # 00:30 JST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/blog-posts.yml]
+
+# README を書き換えるワークフロー同士で main への push が競合しないよう直列化する
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # 待機中に Metrics が main を進めることがあるので、トリガー時点の SHA ではなく最新の main を取る
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: https://yura.is-a.dev/feed.xml
