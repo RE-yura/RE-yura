@@ -8,15 +8,15 @@
 
 #### 📊 Stats
 
-![Metrics](/github-metrics.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RE-yura&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
-</picture>
+<p>
+  <img src="/github-metrics.svg" alt="Metrics" /><br />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RE-yura&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
+  </picture>
+</p>
 
 #### ✍️ Latest Posts
 
