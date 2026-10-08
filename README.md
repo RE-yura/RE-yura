@@ -28,13 +28,6 @@
 - [より簡単に、より美しくブロック線図を描く方法](https://yura.is-a.dev/posts/drawio-bode-diagram)
 <!-- BLOG-POST-LIST:END -->
 
-#### 🛠 Projects
-
-- [**claude-marketplace**](https://github.com/RE-yura/claude-marketplace) — Claude Code plugin marketplace. Ships `dev-workflow`: Claude plans & reviews, Codex implements
-- [**local-llm-playground**](https://github.com/RE-yura/local-llm-playground) — Run local LLMs fully offline on Apple Silicon with llama.cpp
-- [**pdf-questions**](https://github.com/RE-yura/pdf-questions) — Mastra template that summarizes large PDFs to generate questions without hitting token limits
-- [**smash-bros-bingo**](https://re-yura.github.io/smash-bros-bingo/) — Super Smash Bros. bingo, built with Claude Artifacts
-
 #### 🧰 Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,astro,python,pytorch,ros,vercel,cloudflare,firebase)](https://skillicons.dev)
