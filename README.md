@@ -1,10 +1,6 @@
 # 👋 Hello!
 
-Software engineer with a robotics background, based in Tokyo 🇯🇵
-
-- 🌐 Building web apps with TypeScript (React / Next.js / Hono / Astro)
-- 🤖 Exploring LLM tooling — agents, local LLMs and Claude Code plugins
-- 🦾 Tinkering with home robots (HSR) and VLA in the browser
+~~Robotics~~ End-to-end? Engineer
 
 [![](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge)](https://yura.is-a.dev/)
 
