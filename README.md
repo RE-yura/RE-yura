@@ -6,16 +6,6 @@
 [![](https://img.shields.io/badge/Follow_@__reyura-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/_reyura)
 [![](https://img.shields.io/badge/Connect_linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yura-aoyama/)
 
-#### ✍️ Latest Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [仕事中の集中力を削る地味な要因を AeroSpace と DockDoor で潰した話](https://yura.is-a.dev/posts/aerospace-dockdoor)
-- [Markdown 記法一覧](https://yura.is-a.dev/posts/markdown-check)
-- [Hello, World!!](https://yura.is-a.dev/posts/hello-world)
-- [5分でVPN接続完了なZeroTier](https://yura.is-a.dev/posts/vpn-zerotier)
-- [より簡単に、より美しくブロック線図を描く方法](https://yura.is-a.dev/posts/drawio-bode-diagram)
-<!-- BLOG-POST-LIST:END -->
-
 #### 📊 Stats
 
 ![Metrics](/github-metrics.svg)
@@ -27,6 +17,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/RE-yura/RE-yura/output/github-snake.svg" />
 </picture>
+
+#### ✍️ Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [仕事中の集中力を削る地味な要因を AeroSpace と DockDoor で潰した話](https://yura.is-a.dev/posts/aerospace-dockdoor)
+- [Markdown 記法一覧](https://yura.is-a.dev/posts/markdown-check)
+- [Hello, World!!](https://yura.is-a.dev/posts/hello-world)
+- [5分でVPN接続完了なZeroTier](https://yura.is-a.dev/posts/vpn-zerotier)
+- [より簡単に、より美しくブロック線図を描く方法](https://yura.is-a.dev/posts/drawio-bode-diagram)
+<!-- BLOG-POST-LIST:END -->
 
 #### 🛠 Projects
 
