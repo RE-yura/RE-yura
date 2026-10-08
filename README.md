@@ -38,7 +38,3 @@
 #### 🧰 Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,astro,python,pytorch,ros,vercel,cloudflare,firebase)](https://skillicons.dev)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RE-yura&layout=compact&hide=jupyter%20notebook&langs_count=8&bg_color=40,000000,2C5364&theme=react) -->
-<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RE-yura&count_private=true&show_icons=true&line_height=24&bg_color=40,000000,2C5364&theme=react) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RE-yura&theme=flat)](https://github.com/ryo-ma/github-profile-trophy) -->
